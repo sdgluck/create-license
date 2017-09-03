@@ -1,0 +1,30 @@
+{
+  "name": "create-license",
+  "version": "1.0.0",
+  "description": "Create a LICENSE file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepublishOnly": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sdgluck/create-license.git"
+  },
+  "keywords": [
+    "create",
+    "license"
+  ],
+  "author": "Sam Gluck <sdgluck@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgluck/create-license/issues"
+  },
+  "homepage": "https://github.com/sdgluck/create-license",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "jest": {
+    "testRegex": "test.js"
+  }
+}
