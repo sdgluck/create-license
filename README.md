@@ -6,6 +6,8 @@ Made with ❤ at [@outlandish](http://www.twitter.com/outlandish)
 
 <a href="http://badge.fury.io/js/poz"><img alt="npm version" src="https://badge.fury.io/js/poz.svg"></a>
 
+Parts of this library are based on [`license-generator`](https://github.com/arshad/license-generator) by [Arshad Chummun](https://github.com/arshad). 
+
 ## Install 
 
 ```sh
