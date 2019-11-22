@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Create a LICENSE file",
   "main": "index.js",
+  "type": "index.d.ts",
   "scripts": {
     "test": "jest",
     "prepublishOnly": "npm test"
